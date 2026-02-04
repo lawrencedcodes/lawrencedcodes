@@ -28,7 +28,7 @@
   </a>
 
 
-<a href="https://github.com/onesirian">
+<a href="https://github.com/lawrencedcodes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedcodes&count_private=true" />
 </a> 
 
