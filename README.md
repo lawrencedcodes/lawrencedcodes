@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://github.com/onesirian?tab=followers">
-    <img src="https://img.shields.io/github/followers/onesirian?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/lawrencedcodes?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/LawrenceDCodes">
-    <img src="https://img.shields.io/twitter/follow/onesirian?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/lawrencedcodes?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://lawrencedcodes.blogspot.com">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
