@@ -1,6 +1,6 @@
 ![Lawrence Lockhart](https://github.com/onesirian/onesirian/blob/master/linkedinbanner2.png)
 
-<p align="center">I'm a Java Developer, community organizer and mid-life career changer.  I enjoy sharing ideas around paths into coding careers which you can see here on my <a href="https://www.tiktok.com/@onesirian">TikTok page.</a>🎥  Periodically the stars will align with the wind blowing just perfectly and I'll add a blog post here <a href="http://justcodealready.blogspot.com/">Blog</a>.</p>
+<p align="center">I'm a Java Developer, community organizer and mid-life career changer.  I enjoy sharing ideas around paths into coding careers on my <a href="https://www.tiktok.com/@onesirian">TikTok.</a>🎥  Periodically the stars will align with the wind blowing just perfectly and I'll add a blog post here <a href="https://lawrencedcodes.blogspot.com">Blog</a>.</p>
 
 <p align="center">Passionate about 
   <b> 
