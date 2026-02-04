@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/onesirian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onesirian&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedcodes&count_private=true" />
 </a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=onesirian.onesirian)
