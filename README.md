@@ -26,18 +26,11 @@
   <a href="https://lawrencedcodes.blogspot.com">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/lawrencedcodes/awesome-github-profile-readme" 
-alt="Stars Badge"/></a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/lawrencedcodes/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/lawrencedcodes/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/lawrencedcodes/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lawrencedcodes/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/lawrencedcodes/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lawrencedcodes/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 
-<!-- <a href="https://github.com/onesirian">
+<a href="https://github.com/onesirian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onesirian&count_private=true" />
-</a> -->
+</a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=onesirian.onesirian)
 </p>
