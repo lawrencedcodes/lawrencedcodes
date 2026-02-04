@@ -28,10 +28,6 @@
   </a>
 
 
-<a href="https://github.com/lawrencedcodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedcodes&count_private=true" />
-</a> 
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=onesirian.onesirian)
 </p>
 
